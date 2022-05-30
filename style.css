@@ -1,0 +1,31 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: #de7471
+    }
+
+h2{
+    font-size : 80px;
+    text-align:center;
+    color : #de7471
+}
+
+.prout{
+    display : flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.prout img{
+    border-radius: 50em;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    text-align: end;
+    }
+    
+body {
+    background-color: #007471;
+    }
